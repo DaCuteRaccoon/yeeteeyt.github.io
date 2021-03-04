@@ -1,5 +1,9 @@
+<link rel="icon" href="es.githubusercontent.com/77510164/110009792-7fe7f980-7ceb-11eb-8131-bf4c57386702.jpg">
+
 **THIS IS THE BOOKMARKLET**
-site under construction
+
+site under construction,
+
 don't mind the dust
 
 storage bookmarklet `javascript:var s=document.createElement('script');s.type='text/javascript';s.src=' ';document.body.appendChild(s);void(0);`
