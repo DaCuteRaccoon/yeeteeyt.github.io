@@ -18,7 +18,7 @@ https://thaone5866.github.io/zombsunblocked
 
 
 
-devast.io is also a cool game
+devast.io is also a cool game https://thaone5866.github.io/devastio/
 ![Screenshot 2021-03-03 at 10 09 47 AM](https://user-images.githubusercontent.com/77510164/109983975-59b56000-7cd1-11eb-91da-5e650fc48b92.png)
 more links->
 https://thaone5866.github.io/links/ 
@@ -35,7 +35,7 @@ https://thaone5866.github.io/links/
 <!-- end www.htmlcommentbox.com -->
 
 
-
+s\
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RyDrlipJ2ro" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
