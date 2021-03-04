@@ -22,3 +22,12 @@ devast.io is also a cool game
 ![Screenshot 2021-03-03 at 10 09 47 AM](https://user-images.githubusercontent.com/77510164/109983975-59b56000-7cd1-11eb-91da-5e650fc48b92.png)
 more links->
 https://thaone5866.github.io/links/ 
+
+
+
+
+<!-- begin http://wwww.htmlcommentbox.com -->
+<div id="HCB_comment_box"><a href="http://www.htmlcommentbox.com">Comment Box</a> is loading comments...</div>
+<link rel="stylesheet" type="text/css" href="//http://www.htmlcommentbox.com/static/skins/bootstrap/twitter-bootstrap.css?v=0" />
+<script type="text/javascript" id="hcb"> /*<!--*/ if(!window.hcb_user){hcb_user={};} (function(){var s=document.createElement("script"), l=hcb_user.PAGE || (""+window.location).replace(/'/g,"%27"), h="//http://www.htmlcommentbox.com";s.setAttribute("type","text/javascript");s.setAttribute("src", h+"/jread?page="+encodeURIComponent(l).replace("+","%2B")+"&opts=16862&num=10&ts=1439537825928");if (typeof s!="undefined") document.getElementsByTagName("head")[0].appendChild(s);})(); /*-->*/ </script>
+<!-- end http://www.htmlcommentbox.com -->
