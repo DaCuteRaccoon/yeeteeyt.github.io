@@ -12,7 +12,7 @@ more soon...
 
 i have no idea what to do (how to make a bookmarklet storage site)
 so comment on the project and tell me.
-[https://thaone5866.github.io/zombsunblocked/]()
+https://thaone5866.github.io/zombsunblocked
 
 ![Screenshot 2021-03-02 at 5 19 01 PM](https://user-images.githubusercontent.com/77510164/109983626-02af8b00-7cd1-11eb-8e76-cd71e8db87e7.png)
 
@@ -34,5 +34,8 @@ https://thaone5866.github.io/links/
  <script type="text/javascript" id="hcb"> /*<!--*/ if(!window.hcb_user){hcb_user={};} (function(){var s=document.createElement("script"), l=hcb_user.PAGE || (""+window.location).replace(/'/g,"%27"), h="https://www.htmlcommentbox.com";s.setAttribute("type","text/javascript");s.setAttribute("src", h+"/jread?page="+encodeURIComponent(l).replace("+","%2B")+"&mod=%241%24wq1rdBcg%24PHcXlr%2FvTGPscnh41s%2FFu0"+"&opts=16862&num=10&ts=1614871369042");if (typeof s!="undefined") document.getElementsByTagName("head")[0].appendChild(s);})(); /*-->*/ </script>
 <!-- end www.htmlcommentbox.com -->
 
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RyDrlipJ2ro" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
