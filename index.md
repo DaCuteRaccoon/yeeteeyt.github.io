@@ -1,4 +1,6 @@
-<link rel="icon" href="es.githubusercontent.com/77510164/110009792-7fe7f980-7ceb-11eb-8131-bf4c57386702.jpg">
+
+<title> Tha one 5866 </title>
+<link rel="shortcut icon" type="image/jpg" href="https://user-images.githubusercontent.com/77510164/110010147-fdac0500-7ceb-11eb-9387-e4c33f43404c.jpg"/>
 
 **THIS IS THE BOOKMARKLET**
 
