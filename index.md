@@ -1,6 +1,10 @@
-
-<title> Tha one 5866 </title>
-<link rel="shortcut icon" type="image/jpg" href="https://user-images.githubusercontent.com/77510164/110010147-fdac0500-7ceb-11eb-9387-e4c33f43404c.jpg"/>
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
 
 **THIS IS THE BOOKMARKLET**
 
