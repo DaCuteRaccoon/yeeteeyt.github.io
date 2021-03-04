@@ -12,4 +12,4 @@ more soon...
 
 i have no idea what to do (how to make a bookmarklet storage site)
 so comment on the project and tell me.
-[https://thaone5866.github.io/zombsunblocked/] (zombs io unblocked)
+[https://thaone5866.github.io/zombsunblocked/](unblocked site lol)
