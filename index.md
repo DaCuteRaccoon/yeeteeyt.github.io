@@ -1,7 +1,3 @@
-<title>
-Tha one 5866
-</title>
-
 <p><strong>WELCOME TO MY SITE!</strong></p>
 <p>site under construction,</p>
 <p>don't mind the dust</p>
