@@ -20,4 +20,4 @@
 
 
 <p>s<br /><iframe width="560" height="315" src="https://www.youtube.com/embed/RyDrlipJ2ro" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
-<p>I am making A <strong>new site</strong> and you can help! https://sites.google.com/chattprepmail.com/thaone5866/home</p>
+<p>I am making A <strong>new site</strong> and you can help! </p>
