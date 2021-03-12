@@ -1,8 +1,6 @@
-<p><strong>WELCOME TO MY SITE!</strong></p>
-<p>site under construction,</p>
-<p>don't mind the dust</p>
-Tell me if you like the site:
-<h3>ok! you guys visiting were so immature so you spammed dislike! so now no dislike box. also I will work out ban system to ban you guys(you know who you are.)</h3>
+
+
+<p>ok! you guys visiting were so immature so you spammed dislike! so now no dislike box. also I will work out ban system to ban you guys(you know who you are.)</p>
 <p>storage bookmarklet <code>javascript:var s=document.createElement('script');s.type='text/javascript';s.src=' ';document.body.appendChild(s);void(0);</code></p>
 <p><a href="https://github.com/thaone5866/codestorage.github.io">see my lame site lol</a></p>
 <p><a href="https://www.youtube.com/channel/UCl6Xu7SiGfDcI-KBP54eYtA">my youtube channel</a> more soon...</p>
