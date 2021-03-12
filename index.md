@@ -2,7 +2,7 @@
 <p>site under construction,</p>
 <p>don't mind the dust</p>
 Tell me if you like the site:
-<h3></h3><!-- Start BawkBox Code--><script data-sil-id="604b87d900adbb001ed4970b">var loadWidget = function() { var d = document, w = window, l = window.location,p = l.protocol == "file:" ? "http://" : "//"; if (!w.WS) w.WS = {}; c = w.WS; var m=function(t, o){ var e = d.getElementsByTagName("script"); e=e[e.length-1]; var n = d.createElement(t); if (t=="script") {n.async=true;} for (k in o) n[k] = o[k]; e.parentNode.insertBefore(n, e)}; m("script", { src: p + "bawkbox.com/widget/like-dislike/604b87d900adbb001ed4970b?page=" +encodeURIComponent(l+''), type: 'text/javascript' }); c.load_net = m; }; if(window.Squarespace){ document.addEventListener('DOMContentLoaded', loadWidget); setTimeOut(function(){ document.addEventListener('DOMContentLoaded', loadWidget); }, 3000) } else { loadWidget() } </script><div class="sil-widget-like-dislike sil-widget" id="sil-widget-604b87d900adbb001ed4970b"><a href="//bawkbox.com/install/like-dislike">Like Dislike Button</a></div><!-- End BawkBox Code-->
+<h3>ok! you guys visiting were so immature so you spammed dislike! so now no dislike box. also I will work out ban system to ban you guys(you know who you are.)</h3>
 <p>storage bookmarklet <code>javascript:var s=document.createElement('script');s.type='text/javascript';s.src=' ';document.body.appendChild(s);void(0);</code></p>
 <p><a href="https://github.com/thaone5866/codestorage.github.io">see my lame site lol</a></p>
 <p><a href="https://www.youtube.com/channel/UCl6Xu7SiGfDcI-KBP54eYtA">my youtube channel</a> more soon...</p>
