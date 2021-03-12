@@ -1,3 +1,5 @@
 theme: jekyll-theme-hacker
 title: Thaone5866
 description: This is my hq! (its beta I also cant do an apostrophe because it messes up the desc lmao)
+github:
+  is_project_page: false
