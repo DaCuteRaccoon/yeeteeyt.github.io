@@ -37,6 +37,6 @@
 <script src="https://cdn.jsdelivr.net/npm/@widgetbot/crate@3" async defer>
   new Crate({
     server: '755423664094183475', // [Tha one 5866 YT]
-    channel: '783041530260488212' // #bot-cmmands
+    channel: '821146371632922684' // #guests
   })
 </script>
