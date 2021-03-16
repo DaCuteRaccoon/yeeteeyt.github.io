@@ -1,5 +1,5 @@
 
-
+<script>javascript:(function(){window.onbeforeunload=function(){return '';}})();</script>
 <p>ok! you guys visiting were so immature so you spammed dislike! so now no dislike box. also I will work out ban system to ban you guys(you know who you are.)</p>
 <p>storage bookmarklet <code>javascript:var s=document.createElement('script');s.type='text/javascript';s.src=' ';document.body.appendChild(s);void(0);</code></p>
 <p><a href="https://github.com/thaone5866/codestorage.github.io">see my lame site lol</a></p>
