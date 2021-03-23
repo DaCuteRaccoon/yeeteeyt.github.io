@@ -1,25 +1,7 @@
 <script type="text/javascript" src="//cdn.pushwoosh.com/webpush/v3/pushwoosh-web-notifications.js" async></script>
 <html lang="en-US">
   <head>
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="/assets/css/style.css?v=a9c0ce25823bb480e43e9dbeae79b6d5c4ae7b93">
-
-<!-- Begin Jekyll SEO tag v2.7.1 -->
-<title>Thaone5866 | This is my hq! (its beta I also cant do an apostrophe because it messes up the desc lmao)</title>
-<meta name="generator" content="Jekyll v3.9.0" />
-<meta property="og:title" content="Thaone5866" />
-<meta property="og:locale" content="en_US" />
-<meta name="description" content="This is my hq! (its beta I also cant do an apostrophe because it messes up the desc lmao)" />
-<meta property="og:description" content="This is my hq! (its beta I also cant do an apostrophe because it messes up the desc lmao)" />
-<link rel="canonical" href="https://thaone5866.github.io/" />
-<meta property="og:url" content="https://thaone5866.github.io/" />
-<meta property="og:site_name" content="Thaone5866" />
-<meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="Thaone5866" />
-<script type="application/ld+json">
-{"@type":"WebSite","headline":"Thaone5866","url":"https://thaone5866.github.io/","description":"This is my hq! (its beta I also cant do an apostrophe because it messes up the desc lmao)","name":"Thaone5866","@context":"https://schema.org"}</script>
+    
 <!-- End Jekyll SEO tag -->
 
   </head>
@@ -27,9 +9,6 @@
   <body>
 
   
-
-    <div class="container">
-      <section id="main_content">
         
 <script>javascript:(function(){window.onbeforeunload=function(){return '';}})();</script>
 
