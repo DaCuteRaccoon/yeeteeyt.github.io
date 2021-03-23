@@ -1,5 +1,4 @@
-
-<!DOCTYPE html>
+<script type="text/javascript" src="//cdn.pushwoosh.com/webpush/v3/pushwoosh-web-notifications.js" async></script>
 <html lang="en-US">
   <head>
     <meta charset='utf-8'>
