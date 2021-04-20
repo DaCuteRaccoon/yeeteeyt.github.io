@@ -3,6 +3,7 @@
   <head>
     
 <!-- End Jekyll SEO tag -->
+<script charset="UTF-8" src="//web.webpushs.com/js/push/22c65a4b8f4139f04163dcf4c1612540_1.js" async></script>
 
   </head>
 
