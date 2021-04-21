@@ -3,6 +3,10 @@
     
 <!-- End Jekyll SEO tag -->
 <a href="#" class="sp_notify_prompt">Activate notifications</a>
+
+
+
+
 <script charset="UTF-8" src="//web.webpushs.com/js/push/fbc4d9b0a453851461396bf1885b20cb_1.js" async></script>
 
 <script charset="UTF-8" src="//web.webpushs.com/js/push/22c65a4b8f4139f04163dcf4c1612540_1.js" async></script>
