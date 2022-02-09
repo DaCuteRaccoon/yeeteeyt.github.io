@@ -1,9 +1,20 @@
-this stupid button...
+Helo guys me anm is don finish woringking wit site it is done
+
+am imo now and me are make poem
+
+Darkness.... Emo and deatrh... nio truasefe fre9ejdnds 
+I diee'
 
 
-so guys, stack overflow and w3schools PURE KNOWLEDGE presents... A FANCY BUTTON!...that doesn´t work...
-so yeah guys, I am failing completely at life, and am suffering to full extent, but I am so happy that ONE viewer of my website is happy... stupid website...
 
-UPDATE: damn nice site guys...
-nice and tidy-
-please end me
+
+
+
+
+
+
+
+
+
+
+EM)O
