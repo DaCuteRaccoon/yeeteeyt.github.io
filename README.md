@@ -1,20 +1,2 @@
-Helo guys me anm is don finish woringking wit site it is done
-
-am imo now and me are make poem
-
-Darkness.... Emo and deatrh... nio truasefe fre9ejdnds 
-I diee'
-
-
-
-
-
-
-
-
-
-
-
-
-
-EM)O
+Guys I gave afkvido full unrestrained acess to this repo.
+he will go apeshit crazy
